@@ -1,4 +1,4 @@
 # github
 My first self learning repo.
 <br>
-Author- Pruthvi Kalyani
+Author- Pruthvi Kalyani (WIT Solapur)
