@@ -1,2 +1,3 @@
 # github
-My first self learning repo
+My first self learning repo.
+Author- Pruthvi Kalyani
